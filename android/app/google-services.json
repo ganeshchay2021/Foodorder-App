@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328010156255",
+    "project_id": "hamrofastfood-932b4",
+    "storage_bucket": "hamrofastfood-932b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328010156255:android:2c14734d377af0cc65016a",
+        "android_client_info": {
+          "package_name": "com.example.foodorderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4UBE7qVHpZeLQfMnxwZJ4RjY4ZySwSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
