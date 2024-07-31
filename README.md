@@ -1,6 +1,6 @@
 # Food Order App
 
-The Project a Food Order App. I have use Firebase Real Time Data Base For order Detail. This App is Done for Enhance my Skills and Credit goes to youtuber MITOKO.
+The Project a Food Order App. I have use Firebase Real Time Data Base For order Detail. This App is Done for Enhance my Skills and Credit goes to youtuber MICH KOKO.
 
 # Output
 
